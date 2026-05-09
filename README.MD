@@ -325,14 +325,19 @@ The project uses custom-trained datasets for:
 - Human-Computer Interaction
 - Assistive Artificial Intelligence
 
----
-
-# Authors
-
-Final Year Engineering Major Project
 
 ---
 
 # License
 
 This project is developed for educational and research purposes only.
+
+# Demo Link
+
+[Multimodal System](https://drive.google.com/drive/folders/1_Uet5M8GGbaRSjHNhJdRH55NV6RznRrJ)
+
+# Reseach Paper Link
+
+[IEEE Explore](https://ieeexplore.ieee.org/document/11504912)
+
+For any support, suggestions, or collaboration inquiries, please contact: [kshitiz.ux98@gmail.com](mailto:kshitiz.ux98@gmail.com)
