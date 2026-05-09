@@ -161,6 +161,99 @@ python speech_controller.py
 
 ---
 
+# How to Use the System
+
+## Module 1 — Sign Language Recognition System
+
+This module detects sign language gestures in real time using the webcam and converts them into speech output.
+
+### Steps to Run
+
+1. Connect a webcam.
+2. Open terminal in the project directory.
+3. Run the following command:
+
+```bash
+python detect.py --weights best.pt --source 0
+```
+
+### Working
+
+- The webcam captures live video frames.
+- YOLOv5 detects hand gestures.
+- The detected gesture label is converted into text.
+- Text-to-Speech engine generates speech output.
+
+---
+
+## Module 2 — Speech-to-Text-to-Speech System
+
+This module captures human speech, performs semantic and intent analysis, and generates intelligent speech responses.
+
+### Steps to Run
+
+1. Connect microphone/audio input device.
+2. Open terminal in the project directory.
+3. Run:
+
+```bash
+python speech_controller.py
+```
+
+### Working
+
+- The microphone captures user speech.
+- Speech Recognition converts speech into text.
+- NLP-based semantic analysis processes the meaning.
+- Intent classification identifies user intent.
+- Contextual response is generated.
+- Text-to-Speech engine produces voice output.
+
+---
+
+# Running Both Modules Together
+
+Both modules can run independently based on user requirements.
+
+## Recommended Workflow
+
+### For Sign Language Communication
+
+Run:
+
+```bash
+python detect.py --weights best.pt --source 0
+```
+
+---
+
+### For Speech Communication
+
+Run:
+
+```bash
+python speech_controller.py
+```
+
+---
+
+# Hardware Requirements
+
+- Webcam
+- Microphone
+- Minimum 8GB RAM
+- Python 3.9+
+- Windows/Linux System
+
+---
+
+# Notes
+
+- Ensure proper lighting for gesture detection.
+- Ensure microphone permissions are enabled.
+- The system is designed for offline execution.
+- Background noise may affect speech recognition accuracy.
+
 # Model Information
 
 ## Sign Language Detection Model
