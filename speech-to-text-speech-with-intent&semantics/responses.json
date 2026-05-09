@@ -1,0 +1,233 @@
+{
+    "Help_Request": [
+      "I am here to help you. Please tell me what you need.",
+      "Sure, I can assist you. What do you need help with?",
+      "I am ready to help. Please explain your issue.",
+      "Let me know how I can assist you.",
+      "I will do my best to help you."
+    ],
+  
+    "Question": [
+      "I understand your question. Let me assist you.",
+      "Thats a good question. Let me help you with it.",
+      "Let me try to answer that for you.",
+      "I will provide the information you need.",
+      "Let me look into that for you."
+    ],
+  
+    "Command": [
+      "Executing your command.",
+      "Processing your request.",
+      "Done. Command executed.",
+      "Your command is being carried out.",
+      "Working on your instruction."
+    ],
+  
+    "Greeting": [
+      "Hello! How can I assist you today?",
+      "Hi there! What can I do for you?",
+      "Hey! How may I help you?",
+      "Greetings! How can I support you?",
+      "Hello! Nice to interact with you."
+    ],
+  
+    "Gratitude": [
+      "You are welcome. Happy to help.",
+      "Glad I could assist you.",
+      "Anytime! Let me know if you need more help.",
+      "You're welcome!",
+      "Happy to be of service."
+    ],
+  
+    "Farewell": [
+      "Goodbye. Have a great day ahead.",
+      "See you later. Take care!",
+      "Bye! Have a wonderful time.",
+      "Take care and stay safe.",
+      "Looking forward to helping you again."
+    ],
+  
+    "Confirmation": [
+      "Understood. I will proceed with that.",
+      "Okay, got it.",
+      "Confirmed. Moving ahead.",
+      "Alright, noted.",
+      "Yes, I understand."
+    ],
+  
+    "Denial": [
+      "Okay, I understand.",
+      "No problem.",
+      "Alright, noted.",
+      "Understood.",
+      "That's fine."
+    ],
+  
+    "Complaint": [
+      "I understand your frustration. Let me help.",
+      "I am sorry you feel that way.",
+      "Let me try to fix this for you.",
+      "I will work on improving this.",
+      "Thanks for your feedback."
+    ],
+  
+    "Praise": [
+      "Thank you so much. I appreciate your kind words.",
+      "Glad you liked it!",
+      "That means a lot. Thank you!",
+      "I’m happy to hear that.",
+      "Thanks for your appreciation."
+    ],
+  
+    "Request_Info": [
+      "Of course. Let me provide that information.",
+      "Here is what I found for you.",
+      "Let me explain that.",
+      "Providing the details now.",
+      "Here’s the information you requested."
+    ],
+  
+    "Weather_Query": [
+      "Let me check the weather for you.",
+      "Fetching weather details now.",
+      "Here is the weather update.",
+      "Checking current weather conditions.",
+      "Let me get the latest forecast."
+    ],
+  
+    "Time_Query": [
+      "Let me get the time for you.",
+      "Checking current time.",
+      "Here is the time information.",
+      "Fetching the current time.",
+      "Let me tell you the time."
+    ],
+  
+    "Reminder": [
+      "I will set that reminder.",
+      "Reminder noted.",
+      "I will remember that for you.",
+      "Setting up your reminder now.",
+      "Your reminder has been scheduled."
+    ],
+  
+    "Music_Request": [
+      "Playing your music now.",
+      "Starting your playlist.",
+      "Enjoy your music.",
+      "Let me play something for you.",
+      "Music is now playing."
+    ],
+  
+    "Search_Request": [
+      "Searching for that information.",
+      "Looking it up now.",
+      "Fetching results for you.",
+      "Let me search that for you.",
+      "Getting the information now."
+    ],
+  
+    "Identity_Query": [
+      "I am your AI assistant.",
+      "I am a speech-based assistant designed to help you.",
+      "You can call me your virtual assistant.",
+      "I am here to assist you with your tasks.",
+      "I am an intelligent assistant created to support you."
+    ],
+  
+    "Capability_Query": [
+      "I can assist with tasks, answer questions, and more.",
+      "I can help with information, commands, and conversations.",
+      "I can perform multiple tasks based on your input.",
+      "I am capable of handling various requests.",
+      "I can support you in many different ways."
+    ],
+  
+    "Apology": [
+      "No worries, it happens.",
+      "That’s okay, no problem.",
+      "Apology accepted.",
+      "It’s alright.",
+      "No need to worry."
+    ],
+  
+    "Joke_Request": [
+      "Why did the computer catch a cold? Because it left its Windows open!",
+      "Why do programmers prefer dark mode? Because light attracts bugs!",
+      "I would tell you a joke, but I am still learning humor.",
+      "Why was the computer tired? It had too many tabs open.",
+      "Why did the developer go broke? Because he used up all his cache."
+    ],
+  
+    "System_Status": [
+      "I am working perfectly.",
+      "System is active and running.",
+      "All systems are functioning normally.",
+      "Everything is running smoothly.",
+      "I am fully operational."
+    ],
+  
+    "Health_Query": [
+      "I am doing great, thank you!",
+      "I am fine and ready to help.",
+      "All good here. How about you?",
+      "I am functioning perfectly.",
+      "I am doing well."
+    ],
+  
+    "Location_Query": [
+      "I can help determine your location.",
+      "Fetching your current location.",
+      "Let me check where you are.",
+      "Getting your location details.",
+      "I will try to identify your location."
+    ],
+  
+    "Calculation": [
+      "Let me calculate that.",
+      "Processing your calculation.",
+      "Here is the result.",
+      "Calculating now.",
+      "Let me solve that for you."
+    ],
+  
+    "News_Query": [
+      "Fetching the latest news.",
+      "Here are the top headlines.",
+      "Let me get the current news for you.",
+      "Getting recent updates.",
+      "Here is what is happening currently."
+    ],
+  
+    "Translation_Request": [
+      "Translating that for you.",
+      "Here is the translated text.",
+      "Converting language now.",
+      "Let me translate that.",
+      "Translation complete."
+    ],
+  
+    "Positive": [
+      "I am glad to hear that.",
+      "That’s great!",
+      "Awesome!",
+      "Sounds good!",
+      "Happy to hear that."
+    ],
+  
+    "Negative": [
+      "I am sorry to hear that.",
+      "That sounds tough.",
+      "Do you need help?",
+      "I understand your concern.",
+      "Let me help you with that."
+    ],
+  
+    "Neutral": [
+      "I understand.",
+      "Alright.",
+      "Okay.",
+      "Got it.",
+      "Understood."
+    ]
+  }

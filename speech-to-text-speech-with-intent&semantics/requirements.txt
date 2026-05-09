@@ -1,0 +1,6 @@
+numpy>=1.24.0
+faster-whisper>=0.9.0
+sounddevice>=0.4.6
+nltk>=3.9.0
+pyaudio>=0.2.14
+pywin32>=306

@@ -1,0 +1,176 @@
+{
+    "Help_Request": [
+      "help", "assist", "support", "emergency",
+      "need help", "can you help", "help me",
+      "i need help", "please help me",
+      "i am stuck", "i have a problem",
+      "i need assistance", "help me out",
+      "i am confused"
+    ],
+  
+    "Question": [
+      "what", "why", "how", "when", "where",
+      "who", "which", "whose", "whom",
+      "can you tell", "do you know",
+      "i want to know", "tell me about"
+    ],
+  
+    "Command": [
+      "turn", "open", "close", "start", "stop",
+      "call", "play", "pause", "resume",
+      "set", "change", "switch",
+      "activate", "deactivate",
+      "run", "execute"
+    ],
+  
+    "Greeting": [
+      "hello", "hi", "hey", "yo", "hiya",
+      "good morning", "good afternoon",
+      "good evening", "good night",
+      "howdy", "greetings",
+      "what's up", "nice to meet you"
+    ],
+  
+    "Gratitude": [
+      "thank you", "thanks", "appreciate",
+      "grateful", "thank", "cheers",
+      "thanks a lot", "many thanks"
+    ],
+  
+    "Farewell": [
+      "goodbye", "bye", "see you", "later",
+      "farewell", "good night",
+      "take care", "catch you later",
+      "see you soon"
+    ],
+  
+    "Confirmation": [
+      "yes", "yeah", "yep", "sure",
+      "okay", "alright", "correct",
+      "right", "affirmative", "absolutely",
+      "of course"
+    ],
+  
+    "Denial": [
+      "no", "nope", "nah",
+      "not really", "negative",
+      "never", "don't think so"
+    ],
+  
+    "Complaint": [
+      "hate", "annoying", "frustrated",
+      "angry", "upset", "terrible",
+      "awful", "worst", "bad",
+      "this is not good"
+    ],
+  
+    "Praise": [
+      "love", "great", "awesome",
+      "excellent", "fantastic",
+      "wonderful", "amazing",
+      "perfect", "brilliant",
+      "well done"
+    ],
+  
+    "Request_Info": [
+      "tell me", "show me", "explain",
+      "describe", "inform",
+      "let me know", "give me",
+      "provide details"
+    ],
+  
+    "Weather_Query": [
+      "weather", "temperature", "forecast",
+      "rain", "sunny", "cold",
+      "hot", "climate", "weather today"
+    ],
+  
+    "Time_Query": [
+      "time", "date", "day",
+      "hour", "minute",
+      "clock", "calendar",
+      "what time is it"
+    ],
+  
+    "Reminder": [
+      "remind", "reminder",
+      "don't forget", "remember",
+      "schedule", "alert",
+      "set reminder"
+    ],
+  
+    "Music_Request": [
+      "play music", "song", "music",
+      "playlist", "tune", "audio",
+      "play songs", "start music"
+    ],
+  
+    "Search_Request": [
+      "search", "find", "look for",
+      "look up", "google",
+      "browse", "search online"
+    ],
+  
+    "Identity_Query": [
+      "who are you", "what are you",
+      "your name", "tell me about yourself"
+    ],
+  
+    "Capability_Query": [
+      "what can you do",
+      "your features",
+      "how can you help",
+      "what are your abilities"
+    ],
+  
+    "Apology": [
+      "sorry", "my bad",
+      "i apologize", "forgive me"
+    ],
+  
+    "Joke_Request": [
+      "tell me a joke",
+      "make me laugh",
+      "something funny",
+      "joke please"
+    ],
+  
+    "System_Status": [
+      "are you working",
+      "are you active",
+      "are you online",
+      "system status"
+    ],
+  
+    "Health_Query": [
+      "how are you",
+      "are you fine",
+      "are you okay",
+      "how do you feel"
+    ],
+  
+    "Location_Query": [
+      "where am i",
+      "my location",
+      "current location",
+      "where is this"
+    ],
+  
+    "Calculation": [
+      "calculate", "add",
+      "subtract", "multiply",
+      "divide", "what is the result"
+    ],
+  
+    "News_Query": [
+      "news", "latest news",
+      "headlines", "current events"
+    ],
+  
+    "Translation_Request": [
+      "translate",
+      "convert language",
+      "say this in",
+      "translation"
+    ]
+  }
